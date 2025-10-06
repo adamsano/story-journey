@@ -5,10 +5,8 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 ## Section 01 — Héros
 Le héros trouve une pierre brillante dans les champs.
 
-## Section 02 — Villain
-<!-- Écrivez ici (≤ 2 phrases). -->
 ### Section 2 – Villain
-Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
+Une voix sombre lui dit de la jeter.
 
 ## Section 03 — Helper
 Une fille nommée Helper lui dit de la garder.
@@ -18,7 +16,7 @@ Il la cache dans sa poche.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
+Un corbeau le suit depuis la forêt.
 
 ## Section 06 — Helper
 Helper explique que la pierre a peur aussi.
@@ -38,7 +36,7 @@ Il quitte le village au lever du soleil.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
+Une ombre glisse derrière lui.
 
 ## Section 12 — Helper
 Helper dit : « Le voyage commence maintenant. »
