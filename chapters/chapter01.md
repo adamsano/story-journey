@@ -3,7 +3,7 @@
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le Héros est introduit fièrement.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
