@@ -17,7 +17,7 @@ Le Villain observe le héros à distance, préparant ses premières embûches da
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-
+Le Villain tisse une illusion pour tromper le héros, testant sa détermination et sa foi en ses alliés.
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
