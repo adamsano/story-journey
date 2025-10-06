@@ -1,4 +1,4 @@
-# Chapitre 01 — Call to Adventure
+# Chapitre 05 — Abyss
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
@@ -7,8 +7,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-### Section 2 – Villain
-Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
+Le Villain provoque une confrontation majeure, révélant sa véritable puissance et semant la peur chez le héros.
 
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -18,7 +17,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
+Il piège le héros dans un dilemme cruel, forçant des choix impossibles qui le fragilisent moralement.
 
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -28,7 +27,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
+Profitant de la vulnérabilité du héros, le Villain renforce son emprise et amplifie ses forces obscures.
 
 ## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -38,7 +37,7 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
+Le Villain savoure sa domination temporaire, convaincu que la corruption du héros est désormais irréversible.
 
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
