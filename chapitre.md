@@ -1,9 +1,9 @@
-# Chapitre 07 — Atonement
+# Chapitre 07 — Le retour
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il rentre au village avec la pierre.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -12,7 +12,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il montre que la lumière ne blesse pas.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,7 +21,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le village s’éclaire à nouveau.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -30,7 +30,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il remercie la lumière.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
