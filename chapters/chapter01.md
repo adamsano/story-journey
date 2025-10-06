@@ -28,6 +28,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
 
 ## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
