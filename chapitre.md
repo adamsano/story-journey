@@ -1,9 +1,9 @@
-# Chapitre 03 — Threshold
+# Chapitre 03 — Le départ
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-Le héros doute de lui à cause du vilain....
+Il traverse une grande forêt.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -12,7 +12,7 @@ Depuis les ténèbres, le Villain murmure à travers le vent, semant le doute da
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-Le héros se sent observer dans l'ombre.
+Le héros entend des voix dans le vent.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,7 +21,7 @@ Le Villain observe dans l’ombre, manipulant les doutes du héros pour qu’il 
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-Le héros pense qu'il y a un traître parmi ses alliés.
+Il franchit un pont en ruine.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -31,7 +31,7 @@ Profitant du chaos, le Villain laisse une fausse piste, conduisant le héros dan
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-Le héros réalise qu'il était manipulé par le vilain. Il se reprend enfin !
+Ils atteignent la montagne au loin.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
