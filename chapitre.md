@@ -7,7 +7,8 @@ Il traverse une grande forêt.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Depuis les ténèbres, le Villain murmure à travers le vent, semant le doute dans le cœur du héros avant son départ.
+Le chemin disparaît derrière lui.
+
 ## Section 03 — Helper
 Helper lui montre les étoiles pour s’orienter.
 
@@ -16,7 +17,7 @@ Le héros entend des voix dans le vent.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain observe dans l’ombre, manipulant les doutes du héros pour qu’il craigne la trahison de ses propres alliés.
+L’Ombre lui fait voir de faux visages.
 
 ## Section 06 — Helper
 Helper lui dit : « Ne regarde pas en arrière. »
@@ -26,7 +27,7 @@ Il franchit un pont en ruine.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Profitant du chaos, le Villain laisse une fausse piste, conduisant le héros dans une impasse périlleuse.
+Le pont se brise sous ses pieds.
 
 ## Section 09 — Helper
 Helper le rattrape par la main.
@@ -36,7 +37,7 @@ Ils atteignent la montagne au loin.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Alors que le héros croit enfin comprendre la vérité, le Villain révèle qu’il tirait les ficelles depuis le début.
+Le ciel devient noir.
 
 ## Section 12 — Helper
 Une lumière douce les guide au sommet.
