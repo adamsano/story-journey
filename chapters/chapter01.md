@@ -11,7 +11,7 @@ Le héros est introduit fièrement
 Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
 
 ## Section 03 — Helper
-Helper msg
+Guidance spirituelle du mentor
 
 ## Section 04 — Héros
 Le héros avance d'un pas décidé !
@@ -21,7 +21,7 @@ Le héros avance d'un pas décidé !
 Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
 
 ## Section 06 — Helper
-Helper msg
+Guidance spirituelle du mentor
 
 ## Section 07 — Héros
 Le héros reste sur ses gardes
@@ -31,7 +31,7 @@ Le héros reste sur ses gardes
 Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
 
 ## Section 09 — Helper
-Helper msg
+Guidance spirituelle du mentor
 
 ## Section 10 — Héros
 Le héros dégaine son épée.
@@ -41,4 +41,4 @@ Le héros dégaine son épée.
 Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Guidance spirituelle du mentor
