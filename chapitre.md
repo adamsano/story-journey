@@ -1,9 +1,9 @@
-# Chapitre 04 — Trials
+# Chapitre 04 — Les épreuves
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros doit grimper sous la pluie.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -12,7 +12,7 @@ Le Villain place des obstacles sournois sur le chemin du héros, testant sa pati
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il continue, même fatigué.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,7 +21,7 @@ Profitant des faiblesses du héros, le Villain manipule les situations pour seme
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il aide un oiseau blessé à s’envoler.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -30,7 +30,7 @@ Le Villain tend un piège élaboré, poussant le héros à douter de ses alliés
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il voit la vallée brûlée au loin.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
