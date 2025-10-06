@@ -1,4 +1,4 @@
-# Chapitre 01 — Call to Adventure
+# Chapitre 03 — Threshold
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
@@ -7,9 +7,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-### Section 2 – Villain
-Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
-
+Depuis les ténèbres, le Villain murmure à travers le vent, semant le doute dans le cœur du héros avant son départ.
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
@@ -18,8 +16,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
-
+Le Villain observe dans l’ombre, manipulant les doutes du héros pour qu’il craigne la trahison de ses propres alliés.
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
@@ -28,9 +25,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
-
-## Section 09 — Helper
+Profitant du chaos, le Villain laisse une fausse piste, conduisant le héros dans une impasse périlleuse.## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
@@ -38,7 +33,6 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
-
+Alors que le héros croit enfin comprendre la vérité, le Villain révèle qu’il tirait les ficelles depuis le début.
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
