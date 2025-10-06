@@ -9,7 +9,7 @@ Le héros vieillit et garde la pierre près de lui.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper le protège en silence.
 
 ## Section 04 — Héros
 Il confie la pierre à un jeune apprenti.
@@ -18,7 +18,7 @@ Il confie la pierre à un jeune apprenti.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper murmure : « Le cycle recommence. »
 
 ## Section 07 — Héros
 Il sourit, apaisé.
@@ -27,7 +27,7 @@ Il sourit, apaisé.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper veille sur le nouvel élu.
 
 ## Section 10 — Héros
 Son nom devient légende.
