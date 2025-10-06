@@ -1,4 +1,4 @@
-# Chapitre 02 — Supernatural Aid
+# Chapitre 02 — L’apprentissage
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
