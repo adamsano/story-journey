@@ -26,6 +26,7 @@ Le héros perçoit les premiers signes de corruption.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain libère une armée d’ombres pour ralentir le héros, semant le doute dans son esprit et la peur dans son cœur.
 
 ## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -35,6 +36,7 @@ Le héros est déterminé à démasquer le vilain.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain, blessé mais implacable, révèle son plan final : corrompre l’esprit du héros pour qu’il devienne son héritier.
 
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
