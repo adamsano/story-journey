@@ -9,7 +9,7 @@ Il découvre un temple caché.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper prépare un cercle de lumière.
 
 ## Section 04 — Héros
 Il apprend que la pierre garde la lumière du monde.
@@ -18,7 +18,7 @@ Il apprend que la pierre garde la lumière du monde.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper dit : « Ce pouvoir n’appartient à personne. »
 
 ## Section 07 — Héros
 Il comprend qu’il doit protéger la pierre.
@@ -27,7 +27,7 @@ Il comprend qu’il doit protéger la pierre.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper le pousse hors du temple.
 
 ## Section 10 — Héros
 Il tombe mais garde la pierre.
@@ -36,4 +36,4 @@ Il tombe mais garde la pierre.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper sourit : « La lumière a choisi. »
