@@ -11,7 +11,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper msg
 
 ## Section 04 — Héros
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,7 +21,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper msg
 
 ## Section 07 — Héros
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -31,7 +31,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper msg
 
 ## Section 10 — Héros
 <!-- Écrivez ici (≤ 2 phrases). -->
