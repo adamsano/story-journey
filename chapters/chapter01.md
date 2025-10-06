@@ -18,6 +18,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
 
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
