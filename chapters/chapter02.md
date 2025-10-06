@@ -7,6 +7,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain observe le héros à distance, préparant ses premières embûches dans ce nouveau monde.
 
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
