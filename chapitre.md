@@ -9,7 +9,7 @@ Le héros enseigne ce qu’il a appris.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper veille sur eux.
 
 ## Section 04 — Héros
 Il écrit son histoire pour les enfants.
@@ -18,7 +18,7 @@ Il écrit son histoire pour les enfants.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper allume une lanterne dans chaque maison.
 
 ## Section 07 — Héros
 Il comprend que la lumière est dans chacun.
@@ -27,7 +27,7 @@ Il comprend que la lumière est dans chacun.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le ciel devient clair.
 
 ## Section 10 — Héros
 Il pose la pierre sur l’autel.
@@ -36,4 +36,4 @@ Il pose la pierre sur l’autel.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper sourit : « La lumière vit maintenant en eux. »
