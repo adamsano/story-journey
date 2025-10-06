@@ -3,7 +3,7 @@
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros est introduit fièrement
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -14,7 +14,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 Helper msg
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros avance d'un pas décidé !
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -24,7 +24,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 Helper msg
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros reste sur ses gardes
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -34,7 +34,7 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 Helper msg
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros dégaine son épée.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
