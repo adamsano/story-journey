@@ -1,4 +1,4 @@
-# Chapitre 01 — Call to Adventure
+# Chapitre 04 — Trials
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
@@ -7,9 +7,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-### Section 2 – Villain
-Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
-
+Le Villain place des obstacles sournois sur le chemin du héros, testant sa patience et sa volonté.
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
@@ -18,8 +16,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
-
+Profitant des faiblesses du héros, le Villain manipule les situations pour semer le chaos autour de lui.
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
@@ -28,8 +25,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
-
+Le Villain tend un piège élaboré, poussant le héros à douter de ses alliés et de ses choix.
 ## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
@@ -38,7 +34,7 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
+Dans l’ombre, le Villain sourit en voyant le héros vaciller, convaincu que sa corruption est inévitable.
 
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
