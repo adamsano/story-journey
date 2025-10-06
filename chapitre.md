@@ -11,7 +11,7 @@ Le héros trouve une pierre brillante dans les champs.
 Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
 
 ## Section 03 — Helper
-Guidance spirituelle du mentor
+Une fille nommée Helper lui dit de la garder.
 
 ## Section 04 — Héros
 Il la cache dans sa poche.
@@ -21,7 +21,7 @@ Il la cache dans sa poche.
 Le Villain dévoile un plan inquiétant qui met en péril le héros et son entourage.
 
 ## Section 06 — Helper
-Guidance spirituelle du mentor
+Helper explique que la pierre a peur aussi.
 
 ## Section 07 — Héros
 Il décide d’en découvrir l’origine.
@@ -31,7 +31,7 @@ Il décide d’en découvrir l’origine.
 Le Villain manipule les événements en secret, semant le chaos pour tester les limites du héros.
 
 ## Section 09 — Helper
-Guidance spirituelle du mentor
+Helper lui donne une carte ancienne.
 
 ## Section 10 — Héros
 Il quitte le village au lever du soleil.
@@ -41,4 +41,4 @@ Il quitte le village au lever du soleil.
 Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
 
 ## Section 12 — Helper
-Guidance spirituelle du mentor
+Helper dit : « Le voyage commence maintenant. »
