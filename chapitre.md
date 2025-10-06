@@ -8,8 +8,9 @@ Le héros doit grimper sous la pluie.
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
 Le Villain place des obstacles sournois sur le chemin du héros, testant sa patience et sa volonté.
+
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper partage sa force avec lui.
 
 ## Section 04 — Héros
 Il continue, même fatigué.
@@ -17,8 +18,9 @@ Il continue, même fatigué.
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
 Profitant des faiblesses du héros, le Villain manipule les situations pour semer le chaos autour de lui.
+
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper chante pour apaiser son cœur.
 
 ## Section 07 — Héros
 Il aide un oiseau blessé à s’envoler.
@@ -26,8 +28,9 @@ Il aide un oiseau blessé à s’envoler.
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
 Le Villain tend un piège élaboré, poussant le héros à douter de ses alliés et de ses choix.
+
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper dit : « Aider, c’est avancer. »
 
 ## Section 10 — Héros
 Il voit la vallée brûlée au loin.
@@ -37,4 +40,4 @@ Il voit la vallée brûlée au loin.
 Dans l’ombre, le Villain sourit en voyant le héros vaciller, convaincu que sa corruption est inévitable.
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper lui dit : « Le feu purifie, pas seulement détruit. »
