@@ -7,6 +7,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Dans l’ombre du portail, le Villain observe le héros franchir le seuil du monde inconnu, plaçant des pièges invisibles sur sa route.
 
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
