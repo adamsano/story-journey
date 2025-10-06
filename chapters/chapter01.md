@@ -1,5 +1,5 @@
 # Chapitre 01 — Call to Adventure
-
+Le Héros reçoit un appel inattendu à l'aventure, bouleversant sa vie ordinaire.
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
