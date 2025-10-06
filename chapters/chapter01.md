@@ -38,6 +38,7 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain révèle sa véritable puissance et défie le héros dans un ultime affrontement.
 
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
