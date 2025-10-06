@@ -1,9 +1,9 @@
-# Chapitre 08 — Return
+# Chapitre 08 — La paix
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros enseigne ce qu’il a appris.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -12,7 +12,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il écrit son histoire pour les enfants.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,7 +21,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il comprend que la lumière est dans chacun.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -30,7 +30,7 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il pose la pierre sur l’autel.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
