@@ -9,7 +9,7 @@ Il tombe dans une caverne sombre.
 Le Villain provoque une confrontation majeure, révélant sa véritable puissance et semant la peur chez le héros.
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper l’appelle pour qu’il se souvienne.
 
 ## Section 04 — Héros
 Il affronte son double.
@@ -19,7 +19,7 @@ Il affronte son double.
 Il piège le héros dans un dilemme cruel, forçant des choix impossibles qui le fragilisent moralement.
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper lui dit : « La paix vient du courage. »
 
 ## Section 07 — Héros
 Il serre la pierre contre son cœur.
@@ -29,7 +29,7 @@ Il serre la pierre contre son cœur.
 Profitant de la vulnérabilité du héros, le Villain renforce son emprise et amplifie ses forces obscures.
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper chante, la lumière revient.
 
 ## Section 10 — Héros
 Il repousse l’Ombre d’un cri.
@@ -39,4 +39,4 @@ Il repousse l’Ombre d’un cri.
 Le Villain savoure sa domination temporaire, convaincu que la corruption du héros est désormais irréversible.
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper dit : « Tu t’es vaincu toi-même. »
