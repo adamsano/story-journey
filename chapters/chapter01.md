@@ -7,6 +7,8 @@ _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+### Section 2 – Villain
+Le Villain apparaît en arrière-plan, semant le doute et préparant sa confrontation avec le héros.
 
 ## Section 03 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
