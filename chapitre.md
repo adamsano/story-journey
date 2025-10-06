@@ -6,7 +6,7 @@ Il tombe dans une caverne sombre.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain provoque une confrontation majeure, révélant sa véritable puissance et semant la peur chez le héros.
+L’Ombre prend sa forme.
 
 ## Section 03 — Helper
 Helper l’appelle pour qu’il se souvienne.
@@ -16,7 +16,7 @@ Il affronte son double.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Il piège le héros dans un dilemme cruel, forçant des choix impossibles qui le fragilisent moralement.
+L’Ombre lui promet la paix.
 
 ## Section 06 — Helper
 Helper lui dit : « La paix vient du courage. »
@@ -26,7 +26,7 @@ Il serre la pierre contre son cœur.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Profitant de la vulnérabilité du héros, le Villain renforce son emprise et amplifie ses forces obscures.
+La pierre devient noire.
 
 ## Section 09 — Helper
 Helper chante, la lumière revient.
@@ -36,7 +36,7 @@ Il repousse l’Ombre d’un cri.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain savoure sa domination temporaire, convaincu que la corruption du héros est désormais irréversible.
+L’Ombre s’efface dans la roche.
 
 ## Section 12 — Helper
 Helper dit : « Tu t’es vaincu toi-même. »
