@@ -36,6 +36,7 @@ Le Villain libère une armée d’ombres pour ralentir le héros, semant le dout
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Le Villain, blessé mais implacable, révèle son plan final : corrompre l’esprit du héros pour qu’il devienne son héritier.
 
 ## Section 12 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
