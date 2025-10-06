@@ -3,7 +3,7 @@
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-Le héros vient d'arriver dans le nouveau monde.
+Le héros apprend à faire briller la pierre.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -13,7 +13,7 @@ Le Villain observe le héros à distance, préparant ses premières embûches da
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-Le héros se méfie du méchant vilain.
+Il réussit à éclairer la nuit.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -22,7 +22,7 @@ Le Villain tisse une illusion pour tromper le héros, testant sa détermination 
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-Le héros perçoit les premiers signes de corruption.
+Il écoute la pierre battre comme un cœur.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -32,7 +32,7 @@ Le Villain libère une armée d’ombres pour ralentir le héros, semant le dout
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-Le héros est déterminé à démasquer le vilain.
+Il sent qu’il devient plus fort !
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
