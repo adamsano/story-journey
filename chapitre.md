@@ -1,9 +1,8 @@
-# Chapitre 05 — Abyss
+# Chapitre 05 — L'abîme
 
-_Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il tombe dans une caverne sombre.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -13,7 +12,7 @@ Le Villain provoque une confrontation majeure, révélant sa véritable puissanc
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il affronte son double.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -23,7 +22,7 @@ Il piège le héros dans un dilemme cruel, forçant des choix impossibles qui le
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il serre la pierre contre son cœur.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -33,7 +32,7 @@ Profitant de la vulnérabilité du héros, le Villain renforce son emprise et am
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Il repousse l’Ombre d’un cri.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
