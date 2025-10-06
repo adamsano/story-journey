@@ -26,7 +26,8 @@ Le Villain tisse une illusion pour tromper le héros, testant sa détermination 
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-TEST
+Le Villain libère une armée d’ombres pour ralentir le héros, semant le doute dans son esprit et la peur dans son cœur.
+
 ## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
