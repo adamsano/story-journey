@@ -1,9 +1,9 @@
-# Chapitre 01 — Call to Adventure
+# Chapitre 01 — L'appel
 
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-Le héros est introduit fièrement
+Le héros trouve une pierre brillante dans les champs.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -14,7 +14,7 @@ Le Villain apparaît en arrière-plan, semant le doute et préparant sa confront
 Guidance spirituelle du mentor
 
 ## Section 04 — Héros
-Le héros avance d'un pas décidé !
+Il la cache dans sa poche.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -24,7 +24,7 @@ Le Villain dévoile un plan inquiétant qui met en péril le héros et son entou
 Guidance spirituelle du mentor
 
 ## Section 07 — Héros
-Le héros reste sur ses gardes
+Il décide d’en découvrir l’origine.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -34,7 +34,7 @@ Le Villain manipule les événements en secret, semant le chaos pour tester les 
 Guidance spirituelle du mentor
 
 ## Section 10 — Héros
-Le héros dégaine son épée.
+Il quitte le village au lever du soleil.
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
