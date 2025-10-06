@@ -17,6 +17,7 @@ Dans l’ombre du portail, le Villain observe le héros franchir le seuil du mon
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
+Ravi de voir le héros progresser, le Villain tisse un mensonge plus subtil, l’amenant à douter de ses propres alliés.
 
 ## Section 06 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
