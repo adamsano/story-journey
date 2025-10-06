@@ -7,7 +7,7 @@ Le héros apprend à faire briller la pierre.
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain observe le héros à distance, préparant ses premières embûches dans ce nouveau monde.
+Une illusion lui montre la pierre qui explose.
 
 ## Section 03 — Helper
 Helper lui apprend à respirer calmement.
@@ -17,7 +17,8 @@ Il réussit à éclairer la nuit.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain tisse une illusion pour tromper le héros, testant sa détermination et sa foi en ses alliés.
+Une voix moqueuse le fait douter.
+
 ## Section 06 — Helper
 Helper lui rappelle : « La peur ment. »
 
@@ -26,7 +27,7 @@ Il écoute la pierre battre comme un cœur.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain libère une armée d’ombres pour ralentir le héros, semant le doute dans son esprit et la peur dans son cœur.
+Une ombre bouge dans son reflet.
 
 ## Section 09 — Helper
 Helper pose sa main sur son épaule et le rassure.
@@ -36,7 +37,7 @@ Il sent qu’il devient plus fort !
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Le Villain, blessé mais implacable, révèle son plan final : corrompre l’esprit du héros pour qu’il devienne son héritier.
+Le vilain dit : « La lumière attire la douleur.
 
 ## Section 12 — Helper
 Helper répond : « Elle attire aussi les amis. »
