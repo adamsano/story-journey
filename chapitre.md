@@ -3,7 +3,7 @@
 _Chaque section = 1 commit (≤ 2 phrases)._
 
 ## Section 01 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros doute de lui à cause du vilain....
 
 ## Section 02 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -12,7 +12,7 @@ Depuis les ténèbres, le Villain murmure à travers le vent, semant le doute da
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 04 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros se sent observer dans l'ombre.
 
 ## Section 05 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
@@ -21,15 +21,17 @@ Le Villain observe dans l’ombre, manipulant les doutes du héros pour qu’il 
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 07 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros pense qu'il y a un traître parmi ses alliés.
 
 ## Section 08 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
-Profitant du chaos, le Villain laisse une fausse piste, conduisant le héros dans une impasse périlleuse.## Section 09 — Helper
+Profitant du chaos, le Villain laisse une fausse piste, conduisant le héros dans une impasse périlleuse.
+
+## Section 09 — Helper
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 10 — Héros
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le héros réalise qu'il était manipulé par le vilain. Il se reprend enfin !
 
 ## Section 11 — Villain
 <!-- Écrivez ici (≤ 2 phrases). -->
