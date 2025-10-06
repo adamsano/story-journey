@@ -9,7 +9,7 @@ Il rentre au village avec la pierre.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 03 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper lui dit d’expliquer calmement.
 
 ## Section 04 — Héros
 Il montre que la lumière ne blesse pas.
@@ -18,7 +18,7 @@ Il montre que la lumière ne blesse pas.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 06 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper fait briller la pierre dans le ciel.
 
 ## Section 07 — Héros
 Le village s’éclaire à nouveau.
@@ -27,7 +27,7 @@ Le village s’éclaire à nouveau.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 09 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Helper lui dit : « Tu as tenu ta promesse. »
 
 ## Section 10 — Héros
 Il remercie la lumière.
@@ -36,4 +36,4 @@ Il remercie la lumière.
 <!-- Écrivez ici (≤ 2 phrases). -->
 
 ## Section 12 — Helper
-<!-- Écrivez ici (≤ 2 phrases). -->
+Le calme revient enfin.
